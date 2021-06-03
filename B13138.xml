@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation touching the Corporation of Sope-makers of London.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13138</idno><idno type="EEBO-CITATION">99892707</idno>
+  <idno type="VID">188373</idno>
+  <idno type="EEBO-PROQUEST">2240916293</idno>
+  
+            <idno type="STC">STC 9099</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.b.3[21]</idno>
+            <idno type="STC">ESTC S123883</idno>
+            <idno type="PROQUEST">ocm99892707</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892707e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13138)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188373)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:2[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation touching the Corporation of Sope-makers of London.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>3, [1] sheets.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Majestie: and by the assignes of John Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1637]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: ... VVhitehall, the eight and twentieth day of December, in the thirteenth year of His Majesties reign.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Arms 23; Steele notation: preuenit- kers 2) hou- 3) or 4) poli- and.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Corporation of Soapmakers (London, England).</term>
+               <term type="topical_term">Soap --  Manufacture --  England --  Early works to 1800.</term>
+               <term type="topical_term">Soap trade --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:188373:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>¶ By the King.</head>
+            <head type="sub">❧ A Proclamation touching the Corporation of Sope-makers of London.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas the Kings most Excellent Majestie for the better preuenti<g ref="char:EOLhyphen"/>on</hi> and reformation of such falsities and deceits, as might be attempt<g ref="char:EOLhyphen"/>ed and practised in the making of Sope within the Kingdome; And for the regulation of that Trade (so much co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cerning the pub<g ref="char:EOLhyphen"/>lique) in a just and orderly way, Did by Letters Patents under the great Seal of <hi>England,</hi> bearing date the two and twentieth day of May last, (with the advice of His privie Councell) incorporate <hi>Ed<g ref="char:EOLhyphen"/>ward Bromfield,</hi> then Lord Maior of the Citie of <hi>London,</hi> and divers other persons, Sope-makers of that Citie, by the name of Gover<g ref="char:EOLhyphen"/>nour, Assistants, and Cominalty of the Society of Sope-ma<g ref="char:EOLhyphen"/>kers of <hi>London;</hi> And hath thereby granted to them and their Suc<g ref="char:EOLhyphen"/>cessours, power and priviledge to make and sell all manner of Sope, and to make search and seisure in all places within the Realm of <hi>England,</hi> and Dominion of <hi>Wales,</hi> Port and Town of <hi>Barwick,</hi> aswell by land as by water, of all such Sope as shall be corruptly or unduely made, with Inhibition to all other persons whatsoever, to use or exercise the Art or Mystery of Sope-making, unlesse they shall be made free of, and allowed by the said Society.</p>
+            <p>And that His Majesties Subjects might not receive dammage in the goodnesse or prices of Sope; His Majestie by an Indenture of the same date made between His Majesty and the said Company, hath provided, That good and merchantable Sope of severall sorts, such as was heretofore generally used and well-liked of, shall be made by this Society, sufficient for the use and expence of the Kingdome, and by them sold at moderate prices <hi>(viz.)</hi> the Sope made with Whale-oyle, and other merchantable Oyle and Materials, at three pence halfpeny the pound, and the Sope made with Oyl-Olive, Rape Oyle, and other Materials being of the best Crown-Sope, at four pence halfpeny the pound, by the Barrell, half Barrell, Firkin, or half Firkin, and not above, nor at any greater rates or values.</p>
+            <p>To the intent therefore, That all His Majesties loving Subjects may take notice of His Majesties Princely care in the ordering of the making and vending of Sope in such a way, as may be without deceit to His Majesties people; His Majestie doth hereby straightly charge and command, that no person or persons, of what quality or condition soever, other then such as are or shall be free of, or allowed by the said Societie, do from henceforth presume to use or exercise the Art or Mystery of Sope-making, or to make any manner of Sope what<g ref="char:EOLhyphen"/>soever, to sell or put to sale within the Realm of <hi>England,</hi> Dominion of <hi>Wales,</hi> or Town of <hi>Barwick,</hi>
+               <pb facs="tcp:188373:2"/>or to make, prepare, or draw, or suffer to be made, prepared, or drawen within their private hou<g ref="char:EOLhyphen"/>ses, or in any other place or places whatsoever, any Lees for the making of any kind of Sope whatsoever to be put to sale, nor buy, utter, or put to sale any Sope, but such as shall be made un<g ref="char:EOLhyphen"/>der the rule, government or allowance of the said Societie, upon pain to forfeit to His Ma<g ref="char:EOLhyphen"/>jestie the same Sope and Lees, so made, drawen, bought, or sold, in whose hands soever they shall be found, and also under pain of His Majesties high displeasure, and such punishments as shall be thought meet to be inflicted in that behalf.</p>
+            <p>And His Majestie doth hereby straightly charge and command, that no person or persons, His Majesties naturall born Subjects, Denizens, or Strangers, Merchants, Artificers, or others whatsoever, do hereafter import or bring, or cause to be imported or brought into the realm of <hi>England,</hi> dominion of <hi>Wales,</hi> or towne of <hi>Barwick,</hi> from His Majesties kingdomes of <hi>Scotland</hi> or <hi>Ireland,</hi> or from any forreigne parts beyond the seas, any hard Sope, or soft Sope, or other sort of Sope whatsoever, to be used, sold or put to sale here; upon pain of forfeiture to His Majestie of all such Sope so to be imported, and such further penalties and punishments as shall be meet to be inflicted upon the contemners of his Royall command.</p>
+            <p>And His Majestie doth hereby declare His Royall wil and pleasure to be, and doth straight<g ref="char:EOLhyphen"/>ly charge and command that no person or persons whatsoever, either His Majesties naturall born Subjects, Denizens, or Strangers, Merchants, Artificers, or any others, do hereafter import or bring, or cause to be imported or brought from any forraine parts beyond the seas, any Potashes into any Port, Creek or place within the realme of <hi>England,</hi> dominion of <hi>Wales,</hi> or towne of <hi>Barwick,</hi> but only into the Port of <hi>London,</hi> there to be sold by the importers thereof to the said Societie of Sopemakers of <hi>London,</hi> and to none other person or persons whatsoever, except the Importers or such as they shall sell them unto, shall give good caution to His Ma<g ref="char:EOLhyphen"/>jesties Customers to export and vend the same in forraigne parts beyond the seas; Saving al<g ref="char:EOLhyphen"/>wayes that if any ship shall arrive at the Port of <hi>Hull</hi> (from whence there is much Trade to the East countreys) being laden aswell with other Merchandizes as with Potashes, it may be lawfull to land the Potashes there, leaving them deposited in His Majesties Storehouse, un<g ref="char:EOLhyphen"/>till they may be shipped for <hi>London,</hi> or for forraigne parts in some other ship.</p>
+            <p>And His Majestie doth likewise declare His royall will and pleasure to be, That no Pot<g ref="char:EOLhyphen"/>ashes whatsoever, made or to be made, within the realme of <hi>England,</hi> or dominion of <hi>Wales,</hi> shall be sold or disposed of to any person or persons whatsoever, but to the said Societie, except the makers thereof, or such as they shall sell or dispose the same unto, shall give caution to His Majesties said Customers for the exportation and vending the same beyond the seas; upon pain of forfeiture of all such Potashes as shall be imported, sold or disposed of contrary to His Majesties Royall command herein declared, and upon such further punishments and penalties as shall be meet to be inflicted upon the offenders herein. And to the end also that the Sope made by the said Company, may not be sold by retail or in grosse, from the places where the same is or shall be made, at any excessive prices, but at such indifferent and moderate rates, as may be convenient betwixt the buyer and seller; His Majesties will and pleasure is, and he doth hereby straightly charge and command, that the Major, Bayliffe or other chief Officer in every Citie, Burrough, and towne corporate within his said realm and dominion, with the assistance of two of the next Iustices of the Peace of that County, or the two next adjoyning Iustices of the Peace where the retailers or sellers of such Sope shall dwel out of any Citie or town Corporate, or where such Sope shall be sold, upon any complaint that shall be made of any excessive prices, do limit and set such rates upon all Sope that shall be either retailed or sold in grosse, from the places where the same was or shall be made, as they in their judgements shall think reasonable, consideration be<g ref="char:EOLhyphen"/>ing by them had aswell of the setled prices paid to the said Societie, as of the charges of tarri<g ref="char:EOLhyphen"/>age, sea adventure, and other charges and casualties thereunto belonging, with fit and competent gains to the seller. And for the better performance and execution of His Majesties pleasure touching the premisses, His Majestie doth hereby authorize, require and command the said go<g ref="char:EOLhyphen"/>vernour, assistants, and comminaltie of the Society of Sope-makers of <hi>London,</hi> that from time to time by themselves or by their agents, officers, and servants, they cause diligent search and en<g ref="char:EOLhyphen"/>quirie to be made in all or any place or places whatsoever, aswell within Liberties as without, for all or any Sope of what kinde soever, that is, hath, or shall be made, sold, or vented, as also for all or any Lees made, prepared or drawen, or which shall be made, prepared, or drawen by
+<pb facs="tcp:188373:3"/>any person or persons whatsoever, not under the rule and government of the said Societie, or by licence or allowance of the same; And also for all or any Potashes imported or sold, contrary to His Majesties pleasure herein declared; And all such Sope which shall be so made, and all Lees and other Materials (as Oil, Tallow, and Potashes prepared for the making of such Sope) And all Potashes which shall be imported, put to sale, or disposed of, contrary to the tenour hereof, to take, seize and carry away to His Majesties use. And for the better discovery of all the said offences and offenders therein, His Maiestie doth hereby authorize the said go<g ref="char:EOLhyphen"/>vernour, assistants, and comminaltie of the said Societie, and their deputies, officers, ministers, and servants, with the assistance of a Constable, or any other lawfull officer, to enter into any houses, cellers, shops, or other places whatsoever, and also into any ships, barks, or other ves<g ref="char:EOLhyphen"/>sels, and there to search for, seize, take and carry away all such Sope as shall be found to have been unduely made by any person or persons not being under the rule, government or allow<g ref="char:EOLhyphen"/>ance of the said Societie; And all Lees, Oyl, Tallow, Potashes, and other Materials, draw<g ref="char:EOLhyphen"/>en or prepared for the making of Sope, and all Potashes, either forreigne or home made, im<g ref="char:EOLhyphen"/>ported, put to sale, or disposed of contrary to His Majesties pleasure herein declared. And His Majestie doth hereby straightly charge and command, that all fats, pannes, and vessels, made, erected or set up, or that shall be made, set up, or imployed for the making or boyling of Sope, And all tubs, pannes, cisternes, and other vessels for drawing or preparing of Lees, con<g ref="char:EOLhyphen"/>trary to His Majesties Letters Patents granted to the said Company, and His Royall plea<g ref="char:EOLhyphen"/>sure herein expressed, shall by the said Societie of Sope-makers of <hi>London,</hi> their deputies or assignes (whom His Majestie doth in that behalf hereby authorize) by and with the assistance of a Constable or other lawfull officer, be pulled up, defaced, and made unserviceable; And that the persons offending therein be further proceeded against, and punished as shall be meet for such their contempts.</p>
+            <p>And His Majesty doth further straitly charge and command, that no person or persons whatsoever do at any time hereafter presume to withstand or oppose the said Companies Searchers or their deputies, Agents or Servants in searching for Sope corruptly, or undu<g ref="char:EOLhyphen"/>ly made or imported, or for Potashes imported, or put to sale contrary to the tenor hereof, or for, or in seizing or taking away thereof, or of any Lees, Oyl, Tallow, Potashes, or other Materials prepared for the making of such Sope, or in the custody of undue makers of Sope, or undue sellers of Potashes, or in the defacing of Fats, Pans, or Vessels erected or to be erect<g ref="char:EOLhyphen"/>ed or used contrary to His Majesties said Letters Patents, or otherwise in the due execution of their said Office.</p>
+            <p>And His Majesties will and pleasure is, and He doth hereby charge and command all and singuler the Officers of His Customes within all and every the Ports and Havens of His said Kingdome of <hi>England,</hi> and Dominion of <hi>Wales,</hi> and Town of <hi>Barwick,</hi> and the Creeks and mem<g ref="char:EOLhyphen"/>bers thereof, And also within His Majesties Cinque Ports, and the members thereof, That they and euery of them do not onely forbeare to take any Entry or Entries, or give any Bill or Warrant for unlading or lading of any Sope prohibited as aforesaid, either by the name of Sope, or by or under any other name or title whatsoever, or of any Potashes which shall be imported contrary to the tenor hereof, but do also cause seizure and stay to be made thereof to His Majesties use, and within ten dayes after such seizure and stay so made, to give notice of the same from time to time to the Governour of the said Society, or his deputy for the time being, and afterwards upon demand to make delivery thereof to the said Governour or his deputie for the time being, or to their Assignes, upon pain of His Majesties high displeasure, and such other punishments, as their contempts, or neglects herein shall be found to deserve. And whereas divers persons of mean and needy condition are imployed in the making of Sope, and drawing of Lees, by persons of better abilitie and estate, not under the rule and government of the said Societie, His Majestie doth therefore hereby further declare, That the Owners, Lessees, and Inhabitants of all and every such house and houses, wherein any such Sope shall be made, or Lees drawen or prepared by any person or persons whatsoever, not by, and under the rule and government of the said Societie, aswell as the Owners of such Sope and Lees, and such as by, or with their moneys, stock, materials, or otherwise, imploy or set them to work, shall be proceeded against as contemners of His Majesties royall commands.</p>
+            <pb facs="tcp:188373:4"/>
+            <p> And whereas His Majestie did heretofore Incorporate divers persons into one body poli<g ref="char:EOLhyphen"/>tique by the name of Governour, Assistants, and Fellows of the Societie of Sopers of <hi>West<g ref="char:EOLhyphen"/>minster,</hi> and did enable them with sundry powers and priviledges, for the making and vending of Sope within the Realm, Which Grant (being afterwards strengthened, aswell with sun<g ref="char:EOLhyphen"/>dry His Majesties Proclamations, as by Decrees and Orders of His high Court of Star-Chamber and otherwise) the said Societie of Sopers, have sithence resigned and surrendred up into His Majesties hands, who hath cancelled and vacated the same; And His Majesties pleasure is, that all His Subjects should take knowledge thereof, And that all Proclamations, Orders, and Decrees touching the said late Societie of Sopers of <hi>Westminster,</hi> are no longer to be in force, or put in execution, but are by His Majestie repealed and determined, and hereby de<g ref="char:EOLhyphen"/>clared so to be to all intents and purposes whatsoever.</p>
+            <p>And His Majestie doth likewise straightly charge and command all Iustices of Peace, Maiors, Sheriffs, Bayliffs, Constables, Headboroughs, Tithingmen, and all other His Ma<g ref="char:EOLhyphen"/>jesties Officers and Ministers, and also His Majesties Officers, and Ministers of His Court of Admiralty, and Cinque Ports, and all others to whom it shall appertain, that they and every of them at all times hereafter, and from time to time without excuse or delay, be aiding and as<g ref="char:EOLhyphen"/>sisting to the said Society of Sope-makers of <hi>London,</hi> their Searchers and Deputies, and to all His Majesties Customers, Waiters, and all other person and persons in the due execution of all or any the premisses when they shall be thereunto required, as they will answer to the con<g ref="char:EOLhyphen"/>trary at their perils.</p>
+            <p>Neverthelesse, His Majesties will and pleasure is, That neither Sir <hi>Richard Weston,</hi> Knight, nor the severall Sope-makers of <hi>Bristoll, Bridgewater, Exeter, Somerset, Dorset, Devon,</hi> and <hi>Cornwall,</hi> nor any of them respectively shall be restrained or impeached hereby in the making and vend<g ref="char:EOLhyphen"/>ing of such sorts and proportions of Sope yearly, as they respectively are allowed to make and sell in the particular Counties and places to them respectively assigned.</p>
+            <closer>
+               <dateline>Giuen at the Court at VVhitehall, <date>the eight and twentieth day of December, in the thirteenth year of His Majesties Reigne.</date>
+               </dateline>
+               <lb/> ❧ God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Majestie: And by the Assignes of John Bill. 1637.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
